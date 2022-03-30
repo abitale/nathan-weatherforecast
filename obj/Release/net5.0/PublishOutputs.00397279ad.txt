@@ -1,0 +1,11 @@
+D:\Github\CSharp\sesi13\NathanWeather\bin\Release\net5.0\publish\NathanWeather.exe
+D:\Github\CSharp\sesi13\NathanWeather\bin\Release\net5.0\publish\appsettings.Development.json
+D:\Github\CSharp\sesi13\NathanWeather\bin\Release\net5.0\publish\appsettings.json
+D:\Github\CSharp\sesi13\NathanWeather\bin\Release\net5.0\publish\NathanWeather.dll
+D:\Github\CSharp\sesi13\NathanWeather\bin\Release\net5.0\publish\NathanWeather.deps.json
+D:\Github\CSharp\sesi13\NathanWeather\bin\Release\net5.0\publish\NathanWeather.runtimeconfig.json
+D:\Github\CSharp\sesi13\NathanWeather\bin\Release\net5.0\publish\NathanWeather.pdb
+D:\Github\CSharp\sesi13\NathanWeather\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+D:\Github\CSharp\sesi13\NathanWeather\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Github\CSharp\sesi13\NathanWeather\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github\CSharp\sesi13\NathanWeather\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
